@@ -13,3 +13,6 @@ It replaces the standard browser new tab with a focused, functional layout inclu
     https://addons.mozilla.org/de/firefox/addon/new-tab-override/
 3. Adjust your favorites and subreddits in the html file.
 4. Open the extention in firefox and upload the html file.
+
+![Alt-Text](preview.png)
+
