@@ -1,6 +1,6 @@
 # HTML Beginners Project - Custom Firefox New Tab Homepage
 
-This is a minimal and personal new tab start page built with plain HTML and CSS.  
+This is a minimal and personal new tab start page built with plain HTML.  
 It replaces the standard browser new tab with a focused, functional layout including:
 
 -  Favorite quick-access links (Gmail, ChatGPT, YouTube, etc.)
